@@ -73,7 +73,7 @@ python3 main.py
 ## 🧑‍💻 Author
 
 **Bousbia Mouhamed Bachir**
-
+**Azizi Naceur**
 ------------------------------------------------------------------------
 
 ## ⭐ Contributions
