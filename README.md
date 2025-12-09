@@ -80,7 +80,9 @@ python3 main.py
 
 Pull requests and suggestions are welcome.\
 Feel free to fork the project and improve the visualizer!
+------------------------------------------------------------------------
 ## Pictures 
+
 ![Screenshot 1](pictures/Screenshot_2025-12-09_08_53_03.png)
 ![Screenshot 2](pictures/Screenshot_2025-12-09_08_53_12.png)
 ![Screenshot 3](pictures/Screenshot_2025-12-09_08_53_20.png)
